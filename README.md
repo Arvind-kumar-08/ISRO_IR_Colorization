@@ -5,6 +5,11 @@
 
 ---
 
+## 🚀 Live Demo
+
+**🔗 Streamlit App:**  
+https://isroircolorization-qqk65qfo9g8nq9woyvaxug.streamlit.app/
+
 ## 🚀 Overview
 
 Satellite thermal infrared imagery enables Earth observation during night-time and adverse weather conditions. However, infrared images are inherently monochromatic, low in contrast, and lack the semantic richness of visible-spectrum imagery, making human interpretation and downstream computer vision tasks significantly more difficult.
